@@ -1,0 +1,2 @@
+# Mines
+This is game.
